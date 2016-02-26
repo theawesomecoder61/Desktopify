@@ -24,3 +24,9 @@ all on your desktop!
 
 ## The about window
 <img src="http://i.imgur.com/22QWV6Z.png" width="396" height="458" />
+
+
+# Lastly
+## Requires OS X 10.8
+## Written in Objective-C (Cocoa)
+## Made in a few hours
