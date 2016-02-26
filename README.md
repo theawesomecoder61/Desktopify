@@ -21,12 +21,25 @@ all on your desktop!
 ## This comes up
 <img src="http://i.imgur.com/RpcsYZZ.png" width="279" height="224" />
 
+## Enter a URL in here
+<img src="http://i.imgur.com/snBFSh8.png" width="532" height="297" />
+
+# Screenshots
+## Google
+<img src="http://i.imgur.com/Na1y24L.png" width="800" height="500" />
+
+## a YouTube video
+<img src="http://i.imgur.com/PxjA6I5.png" width="800" height="500" />
+
+## my website
+<img src="http://i.imgur.com/LjjlCil.png" width="800" height="500" />
+
 
 ## The about window
 <img src="http://i.imgur.com/22QWV6Z.png" width="396" height="458" />
 
 
 # Lastly
-## Requires OS X 10.8
-## Written in Objective-C (Cocoa)
-## Made in a few hours
+  - Requires OS X 10.8
+  - Written in Objective-C (Cocoa)
+  - Made in a few hours
